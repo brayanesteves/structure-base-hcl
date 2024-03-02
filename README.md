@@ -1,4 +1,4 @@
-# Command lines execute (Example)
+#  [File: custom-ami.pkr.hcl & .github/workflows/packer.yaml] Command lines execute (Example)
 1) packer init .
 2) packer validate .
 3) # Validate templete
